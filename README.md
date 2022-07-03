@@ -1,15 +1,15 @@
 # Join our [Discord](https://discord.gg/xcjvKPM) channel to be updated.
 
-# Simple SWGOH Arena Tracker
+# Simple SWGOH Arena Tracker27
 [DiscordChannel](https://discord.gg/xcjvKPM) --my capacity is quite limited, yet you can help each other on this channel
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/iprobedroid)
 
 ## Deploy straight to Heroku(24/7 free if acredit card registered)
 
-<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker) -->
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker27&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker27) -->
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) -->
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker27)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker27&template=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker27)
 
 
 
@@ -35,7 +35,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F
 
 
-1231%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker27)
+1231%2FccIPD-arena-tracker27&template=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker27)
 
 
 ### 2. Create the application with a unique name and press `Deploy app` button.
