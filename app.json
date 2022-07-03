@@ -1,7 +1,7 @@
 {
-  "name": "simple-swgoh-arena-tracker",
+  "name": "simple-swgoh-arena-tracker27",
   "description": "Simple SWGOH arena tracker",
-  "repository": "https://github.com/ari1377/swgoh-arena-tracker",
+  "repository": "https://github.com/ari1377/swgoh-arena-tracker27",
   "keywords": ["docker"],
   "stack": "container"
 }
