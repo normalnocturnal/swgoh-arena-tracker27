@@ -5,11 +5,11 @@
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/iprobedroid)
 
-## Deploy straight to Heroku(24/7 free if a credit card registered)
+## Deploy straight to Heroku(24/7 free if acredit card registered)
 
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker) -->
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) -->
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDV1231%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2FDV1231%2FccIPD-arena-tracker)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker)
 
 
 
@@ -32,7 +32,10 @@
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker)
  -->
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) -->
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDV1231%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2FDV1231%2FccIPD-arena-tracker)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F
+
+
+1231%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fnormalnocturnal%2FccIPD-arena-tracker)
 
 
 ### 2. Create the application with a unique name and press `Deploy app` button.
